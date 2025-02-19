@@ -1,6 +1,10 @@
 # java-tomcat-maven-example
+<<<<<<< HEAD
 HI HI
 
+=======
+helloooi
+>>>>>>> 7de6294 (CHANgeD)
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
 ## Running Locally
