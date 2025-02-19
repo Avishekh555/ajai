@@ -1,6 +1,6 @@
 # java-tomcat-maven-example
 <<<<<<< HEAD
-HI HI
+HI HI hi hi
 
 =======
 helloooi
