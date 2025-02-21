@@ -24,8 +24,7 @@ pipeline {
             steps {
                 echo 'Deploying the application...'
                 // Add deployment steps here (e.g., copying JAR/WAR to a server)
-                  
             }
-        }
-    }
+        }
+    }
 }
